@@ -1,4 +1,4 @@
-# Thuyet-trinh
+# Selenium with C# 
 Resources:
 
 Document: [Selenium-làm-phần-mềm-kiểm-thử.docx](https://github.com/tri-cong/Thuyet-trinh/files/9080855/Selenium-lam-ph.n-m.m-ki.m-th.docx)
