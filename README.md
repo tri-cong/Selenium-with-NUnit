@@ -8,6 +8,8 @@ Link slide : https://www.canva.com/design/DAFEPxgiQfw/8nipb9u2U4gFZwdadXW2Yw/edi
 Link source code : https://github.com/quoc-anh-tt/Selenium_NUnitTest
  
 Link hướng dẫn chạy: https://www.youtube.com/watch?v=ZzkydxcLrdc
+
+Link video thuyết trình: https://www.youtube.com/watch?v=H0kMDQLOWyo
  
 Contributors:
 
